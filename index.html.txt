@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Happy Birthday  to the world best gurl,mero pyaro chakchakii laiii</title>
+    <title>Happy Birthday i</title>
 
     <style>
         body {
@@ -45,7 +45,7 @@
 <body>
 
 <div class="card">
-    <h1>🎂 Happy Birthday jhusiiiiiiiiiiiiiiii.🎂</h1>
+    <h1>🎂 Happy Birthday .🎂</h1>
 
     <pre>
 if (today == yourBirthday) {
@@ -54,7 +54,7 @@ if (today == yourBirthday) {
     love = infinite;
 }
     </pre>
-<title>DING DONG ITS MONDAY JANURARY 12  and
+<title>DING DONG I  and
 HAPPY
      BIRTHDAY 
               TO 
@@ -65,14 +65,8 @@ HAPPY
                                         OF 
                                            MY 
                                                LIFE 
-                                                      CHAKCHAKI PRETTIEST JHUSI 
-
- HAppy birthday to myyyyy gurl. merooooo jhusi lai janamadin kooo dherai dherai subhakamana loveee youuuuuu verryyyyyyyy very much . ik hamii sngai xaunau tei ne tmilai dherai dherai galli mero tarka bata (fuck youuu) HAPPY BIRTHDAY MERO PRETTIEST DARLING LAI, huanata aaja mero birthday ho tie ne tmilae janmadin koo  dheraii dherai subhakamaana . you are  the best person of my live . you are not just my favourate gurl you are myyyyyyyyyyy favaresttttt person inn the world .(dherai english ma vadina ferill talae enlish aauna ikk aanpad gawar hos thaxa )hehe.
- LUCKY TO HAVE YOU
- thaxa kei kura ma kami xa tme ma sabai ma hunxa  but tme change vaxau hooo lamoooo
- malae man parxa terooo cahchak malae tes bata kaile prblm  xaina hhoo pagal.
-
-</title>
+                                                      
+ H</title>
     <p>No bugs. Only you 💙</p>
 </div>
 
